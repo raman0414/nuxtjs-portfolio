@@ -1,0 +1,29 @@
+body{
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+    line-height: inherit;
+    color: white;
+    background-color: #011627;
+    /* background: rgb(63,63,88);
+    background: linear-gradient(0deg, rgba(63,63,88,1) 0%, rgba(6,13,43,1) 100%); */
+}
+.portfolio {
+    box-sizing: border-box;
+}
+.text-primary {
+    font-weight: 700;
+    color: #faa916;
+}
+section {
+    padding: 2em 1em;
+    max-width: 800px;
+    margin: auto;
+    border-radius: 8px;
+}
+html{
+    scroll-behavior: smooth;
+}
